@@ -1,0 +1,11 @@
+.work {
+  text-align: center;
+}
+.work-title {
+  text-align: center;
+  display: inline-block;
+  color: white;
+  background-color: rgb(20, 20, 20);
+  padding: 10px;
+  border-radius: 5px;
+}
